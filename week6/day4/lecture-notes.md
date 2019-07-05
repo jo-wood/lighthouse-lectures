@@ -1,4 +1,4 @@
-# Week ? - Day 1 Lecture
+# W6D4 - Web Sockets continued
 ---
 ## 
 
